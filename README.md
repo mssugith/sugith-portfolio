@@ -46,3 +46,5 @@ Google Cloud Certified - Professional Data Engineer | Google
 Issued Apr 2026 - Expires Apr 2028 | Credential ID: d31f9fff-6d89-4f14-8651-a55bff0762b5
 Google Cloud Certified - Associate Data Practitioner | Google
 Issued Feb 2026 - Expires Feb 2029 | Credential ID: d464f09c-eb38-4fc2-9c3b-d39277eac9ad
+
+
